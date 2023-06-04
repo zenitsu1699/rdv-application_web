@@ -29,13 +29,14 @@ User(nom, prenoms, numero, mail, Specialite, sexe)
 
 ## Fonctionnement
 Prise de rdv:
-<a href="http://imgur.com/VPG4f4b"><img src="http://i.imgur.com/VPG4f4b.png?1" title="Prise de rdv" /></a>
-<a href="http://imgur.com/YIncNaN"><img src="http://i.imgur.com/YIncNaN.png?1" title="source: imgur.com" /></a>
-Vue rendez-vous par patient:
-<a href="http://imgur.com/OGUw00l"><img src="http://i.imgur.com/OGUw00l.png?1" title="source: imgur.com" /></a>
-Liste des entités pour l'instant statique de l'application: les docteurs, patients et services:
-<a href="http://imgur.com/UQChpYF"><img src="http://i.imgur.com/UQChpYF.png?1" title="source: imgur.com" /></a>
-
+HOME
+<img src="Screenshot at 2023-06-04 07-41-36.png" alt="">
+INSCRIPTION
+<img src="Screenshot at 2023-06-04 07-41-55.png" alt="">
+NEWS
+<img src="Screenshot at 2023-06-04 07-42-13.png" alt="">
+CONTACT
+<img src="Screenshot at 2023-06-04 07-42-39.png" alt="">
 
 ## Equipe
 Ce projet est réaliser par le groupe G3
